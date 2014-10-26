@@ -1,0 +1,6 @@
+= Simple example
+:mydocprop: Hello
+
+== First section
+
+A simple block with mydocprop == {mydocprop}.
